@@ -1,3 +1,11 @@
+# Header
+menu:
+  About: /about
+  Contact: /contact
+  Instagram: https://www.instagram.com/hkuhas/
+  YouTube: https://www.youtube.com/channel/UCfdLTs4dGXcT00rboRK279g
+  Facebook: https://www.facebook.com/hkuhas
+
 # Google Analytics Tracking ID
 google_analytics:
 
